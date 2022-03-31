@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kevin Chaplin, Front-end Engineer.
+- 👋 Hi, I’m Kevin Chaplin, Full-Stack Engineer.
 - 🚀 Former International Karate Instructor; Military Analyst; Prisonser Custody Officer; Bar Manager; English Teacher. Finally found the career for me!
 - 🎓 I'm studying the [FreeCodeCamp](https://www.freecodecamp.org/)'s full stack developer course.
-- 🌱 I’m currently learning back-end with Node.js, Express, MongoDB, Mongoose.
-- 💞️ I’m looking to collaborate on open source projects using React.
+- 🌱 I’m working hard on improving my back-end skills with Node.js, Express, MongoDB, Mongoose, SQL with MySQL.
+- 💞️ I’m looking to collaborate on open source projects using the MERN stack.
 - 📫 Reach me on <kevchaplin44@gmail.com>
